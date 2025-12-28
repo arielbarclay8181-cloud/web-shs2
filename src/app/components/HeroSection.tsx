@@ -76,7 +76,7 @@ export function HeroSection() {
               fontFamily: 'Poppins, sans-serif'
             }}
           >
-            Yayasan Sahabat<br />Harapan Senja 2
+            Panti Jompo Sahabat<br />Harapan Senja 2
           </motion.h1>
 
           <motion.p
